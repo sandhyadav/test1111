@@ -1,0 +1,13 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.header{
+    background-color: cadetblue;
+}
+.menu{
+    background-color: chartreuse;
+}
